@@ -54,16 +54,4 @@ for ip in "${targets[@]}"; do
 done
 ---
 
-### Screenshots (click to enlarge)
-<p align="left">
-  <a href="artifacts/screenshots/stage1_diagram.png"><img src="artifacts/screenshots/stage1_diagram.png" width="220"></a>
-  <a href="artifacts/screenshots/stage1_kali_ip.png"><img src="artifacts/screenshots/stage1_kali_ip.png" width="220"></a>
-  <a href="artifacts/screenshots/stage1_ubuntu_ip.png"><img src="artifacts/screenshots/stage1_ubuntu_ip.png" width="220"></a>
-</p>
-<p align="left">
-  <a href="artifacts/screenshots/stage1_windows_ip.png"><img src="artifacts/screenshots/stage1_windows_ip.png" width="220"></a>
-  <a href="artifacts/screenshots/stage1_verify_ping.png"><img src="artifacts/screenshots/stage1_verify_ping.png" width="220"></a>
-  <a href="artifacts/screenshots/stage1_vm_network_editor.png"><img src="artifacts/screenshots/stage1_vm_network_editor.png" width="220"></a>
-</p>
 
----
