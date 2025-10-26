@@ -24,7 +24,7 @@ This is the foundation for later Attack + Detect stages.
 
 ### Screenshots (click to enlarge)
 <p align="left">
-  <a href="artifacts/screenshots/Diagram.png"><img src="artifacts/screenshots/Diagram.png" width="220"></a>
+  <a href="artifacts/screenshots/Diagram_lab.png"><img src="artifacts/screenshots/Diagram_lab.png" width="220"></a>
   <a href="artifacts/screenshots/Kali_ip.png"><img src="artifacts/screenshots/Kali_ip.png" width="220"></a>
   <a href="artifacts/screenshots/Ubuntu_ip.png"><img src="artifacts/screenshots/Ubuntu_ip.png" width="220"></a>
 </p>
