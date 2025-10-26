@@ -24,13 +24,13 @@ This is the foundation for later Attack + Detect stages.
 
 ### Screenshots (click to enlarge)
 <p align="left">
-  <a href="artifacts/screenshots/stage1_diagram.png"><img src="artifacts/screenshots/diagram.png" width="220"></a>
-  <a href="artifacts/screenshots/stage1_kali_ip.png"><img src="artifacts/screenshots/kali_ip.png" width="220"></a>
-  <a href="artifacts/screenshots/stage1_ubuntu_ip.png"><img src="artifacts/screenshots/ubuntu_ip.png" width="220"></a>
+  <a href="artifacts/screenshots/diagram.png"><img src="artifacts/screenshots/diagram.png" width="220"></a>
+  <a href="artifacts/screenshots/kali_ip.png"><img src="artifacts/screenshots/kali_ip.png" width="220"></a>
+  <a href="artifacts/screenshots/ubuntu_ip.png"><img src="artifacts/screenshots/ubuntu_ip.png" width="220"></a>
 </p>
 <p align="left">
-  <a href="artifacts/screenshots/stage1_windows_ip.png"><img src="artifacts/screenshots/windows_ip.png" width="220"></a>
-  <a href="artifacts/screenshots/stage1_verify_ping.png"><img src="artifacts/screenshots/verify_ping.png" width="220"></a>
+  <a href="artifacts/screenshots/windows_ip.png"><img src="artifacts/screenshots/windows_ip.png" width="220"></a>
+  <a href="artifacts/screenshots/verify_ping.png"><img src="artifacts/screenshots/verify_ping.png" width="220"></a>
 </p>
 
 ---
